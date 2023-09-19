@@ -17,6 +17,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=redpmendoza&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rhabimendoza&theme=dark&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
