@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rhabi Mendoza</h1>
-<h3 align="center">a computer science student</h3>
 
 # 💻 Tech Stack:
 | Mobile App Development | Website App Development | Other Development Languages | Databases and Design |
